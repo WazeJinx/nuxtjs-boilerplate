@@ -1,3 +1,6 @@
+# nuxtjs-boilerplate
+start sum projects fast (self projects never finish dw)
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
