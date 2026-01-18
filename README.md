@@ -1,4 +1,7 @@
 # NuxtJS Boilerplate
+
+see this template demo [here](https://jynxx-boilerplate.vercel.app/)
+
 startup some projects fast
 - responsive sidebar
 - icon component using ```bash :icon='iconLibaryHere'``` 
